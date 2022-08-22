@@ -2,7 +2,7 @@
 
 $server = "localhost";
 $username = "root";
-$password = "";
+$password = "Joshua2@3";
 $dbname = "advisorysystem";
 
   
